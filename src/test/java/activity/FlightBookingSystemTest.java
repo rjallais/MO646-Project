@@ -1,14 +1,10 @@
 package activity;
 
-import org.junit.Before;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDateTime;
-import java.time.Month;
-
-import static org.junit.Assert.*;
 
 public class FlightBookingSystemTest {
 
